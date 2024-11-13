@@ -1,6 +1,5 @@
 # Sales Analysis Project
 
-Bakery Sales Analysis
 Sales analysis merupakan proses evaluasi dan penelitian yang dilakukan terhadap data penjualan untuk memahami kinerja penjualan suatu produk atau layanan. Analisis penjualan melibatkan pengumpulan, interpretasi, dan pemahaman data penjualan dengan tujuan untuk membuat keputusan yang lebih baik, meningkatkan efisiensi, dan mengidentifikasi peluang pertumbuhan.
 
 Berikut ini terdapat data penjualan pada toko roti. Dataset ini menyediakan detail transaksi pelanggan yang memesan berbagai barang dari toko roti ini secara online selama periode waktu dari 26-01-11 hingga 27-12-03. Dataset ini memiliki 20507 entri, lebih dari 9000 transaksi, dan 5 kolom (TransactionNo, Items, DateTime, Daypart, DayType). Data ini diambil dari kaggle.com.
